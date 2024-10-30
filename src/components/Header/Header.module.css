@@ -1,0 +1,10 @@
+.header {
+  background: light-dark(white, black);
+}
+.header_container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
